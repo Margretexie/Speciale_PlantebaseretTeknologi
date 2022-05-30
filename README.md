@@ -1,7 +1,7 @@
 # Speciale_PlantebaseretTeknologi
 Dette repository indeholder kode og setup af mit specialeprodukt.
 
-![produktbillede](images/Product.jpg =50x)
+![produktbillede](images/Product.jpg)
 ![](/images/Glow.jpg)
 
 ## Arduino
@@ -22,6 +22,6 @@ Universal Rendering Pipeline (URP) er brugt
 ## Flowchart over koden
 ![flowchart](images/Flowchart.png)
 
-## Funktionaliteter
 
 ## Video demo
+Youtube link til demonstration af produktets funktionaliteter: https://youtu.be/KQpG1MwNubM
