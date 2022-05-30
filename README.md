@@ -1,7 +1,7 @@
 # Speciale_PlantebaseretTeknologi
 Dette er kode for mit specialeprodukt
 
-![product](/../Product photos/Product.jpg)
+![](Product photos/Product.jpg)
 
 ## Arduino
 [Jordfugtighed- og temperatursensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/arduino-test) sættes i SCL og SDA
