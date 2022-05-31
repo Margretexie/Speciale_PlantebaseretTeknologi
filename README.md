@@ -16,8 +16,8 @@ Connectes til PC for seriel forbindelse med Unity
 
 
 ## Unity
-Unity version: 2020.3.4f1  
-Universal Rendering Pipeline (URP) er brugt
+Man kan enten åbne projektet i Unity version: 2020.3.4f1 (OBS Universal Rendering Pipeline (URP) er brugt)  
+Eller man kan køre Unity buildet, som er en eksekverbar fil, der kører uafhængig af Unity. Download Unity build mappen og kør .exe filen  
 
 ## Flowchart over koden
 ![flowchart](images/Flowchart.png)
