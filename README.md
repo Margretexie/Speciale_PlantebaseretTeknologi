@@ -5,6 +5,7 @@ Dette repository indeholder kode og setup af mit specialeprodukt.
 ![](/images/Glow.jpg)
 
 ## Arduino
+Et Arduino Uno board (Metro) er brugt i dette projekt  
 [Jordfugtighed- og temperatursensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/arduino-test) sættes i SCL og SDA  
 [EMG-sensor](https://wiki.seeedstudio.com/Grove-EMG_Detector/) sættes i pin A0  
 LED'er sættes i pin 6  
